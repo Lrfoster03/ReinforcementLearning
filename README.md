@@ -1,0 +1,3 @@
+An intoduciton to reinforcement learning using OpenAI gym (or now the Farma-Foundations Gymnasium) package and the CartPole environment.
+
+The CartPole environment is a classic control problem where the goal is to balance a pole on a cart by applying forces to the cart. The agent receives a reward for every time step that the pole remains balanced, and the episode ends when the pole falls over or the cart goes out of bounds.
